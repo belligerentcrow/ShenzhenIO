@@ -8,7 +8,6 @@
 + mul 4
 + add 50
   mov acc x1
-  mov 0 acc
   slp 1
 
   @MC4000-2
